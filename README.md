@@ -4,8 +4,8 @@
   ## Description
    The project is to build an API for a social network web application using Node.js, Express.js, and MongoDB. The API will allow users to share their thoughts, react to their friends' thoughts, and manage their friend lists.  
    ## Deployed Application URL
-   https://github.com/Greivin13/Quest-18-NoSql
-   ## Video Demonstartion
+https://github.com/Greivin13/Quest-18-Network-Api  
+ ## Video Demonstartion
    https://drive.google.com/file/d/1GF0HfOK-CFzzJCvP6fqhZYavrDM8E8e8/view
   ## Table of Contents
   * [Features](#features)
